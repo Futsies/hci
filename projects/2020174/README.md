@@ -11,11 +11,11 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος παρουσίαση προόδου  | Συνοψη |
 | --- | --- | --- | --- |
-| 1 | <sup><a href="https://github.com/Futsies/hci/edit/2020174/projects/2020174/README.md#παραδοτέο-1---εισαγωγή"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα </a></sup> | | Σε εκρεμότητα |
-| 2 | Άσκηση γραμμής εντολών (arch linux install on USB) | | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 1 | <sup><a href="https://github.com/Futsies/hci/edit/2020174/projects/2020174/README.md#παραδοτέο-1---εισαγωγή"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα </a></sup> | [Αναφορά 1](https://github.com/courses-ionio/help/discussions/835)  | Σε εκρεμότητα |
+| 2 | Άσκηση γραμμής εντολών (arch linux install on USB) | [Αναφορά 2](https://github.com/courses-ionio/help/discussions/1119) | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Αναφορά 3](https://github.com/courses-ionio/help/discussions/1244) | |
+| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | Αναφορά 4 | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | Αναφορά 5 | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -33,16 +33,27 @@
 Για το συμμετοχικό μου υλικό που θα αναρτηθεί στο Website της εργασίας, επίλεξα να να κάνω αναφορά για την πρώτη παιχνιδομηχανή που δημιουργήθηκε, την ComputerSpace, για το το πρώτο ποντίκι με trackball που κυκλοφόρησε στην αγορά.
 
 ### Links στα αρχεία .md
-* [ComputerSpace]()
-* [Trackball]()
+* [ComputerSpace](https://github.com/Futsies/_gallery/blob/2020174/ComputerSpace.md)
+* [Trackball](https://github.com/Futsies/_gallery/blob/2020174/Kensington_Expert_Mouse.md)
 
 ### Links στις εικόνες
+* [ComputerSpace](https://github.com/Futsies/images/blob/2020174/ComputerSpace-Blue.jpg)
+* [Trackball](https://github.com/A-ST4R/images/blob/master/Kesington_Trackball.png)
+
+### Link στο site
+* [Site](https://melodic-malasada-eef077.netlify.app)
+
+# Παραδοτέο 4 - Άσκηση γραμμής εντολών
+
+# Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A2
+
+### Links στα slides
 * [ComputerSpace]()
 * [Trackball]()
 
-# Παραδοτέο 4 - 
-
-# Παραδοτέο 5 - 
+### Links στα timelines
+* [ComputerSpace]()
+* [Trackball]()
 
 # Παραδοτέο 6 - 
 
