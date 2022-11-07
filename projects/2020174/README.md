@@ -48,12 +48,13 @@
 # Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A2
 
 ### Links στα slides
-* [ComputerSpace]()
-* [Trackball]()
+* [ComputerSpace](https://github.com/Futsies/site/blob/master/_slides/videogames.md)
+* [Trackball](https://github.com/Futsies/site/edit/master/_slides/archetypes.md)
 
 ### Links στα timelines
-* [ComputerSpace]()
-* [Trackball]()
+* [ComputerSpace](https://github.com/Futsies/site/blob/master/_timeline/videogames.md)
+* [Trackball#1](https://github.com/Futsies/site/blob/master/_timeline/input-devices.md)
+* [Trackball#2](https://github.com/Futsies/site/blob/master/_timeline/mouse.md)
 
 # Παραδοτέο 6 - 
 
