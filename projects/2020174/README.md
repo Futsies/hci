@@ -49,7 +49,7 @@ Tην εγκατάσταση του λογισμικου συστήματος Ar
 ### Links στα guides
 * [Normal arch installation](https://wiki.archlinux.org/title/installation_guide)
 * [Installing on bootable pendrive](https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium)
-* [Rufus](https://wiki.archlinux.org/title/USB_flash_installation_medium#Using_Rufus)
+* [Installation media with Rufus](https://wiki.archlinux.org/title/USB_flash_installation_medium#Using_Rufus)
 
 [![asciicast](https://asciinema.org/a/7bjAHHNN3tjmoEP4aD3ghuAFM.svg)](https://asciinema.org/a/7bjAHHNN3tjmoEP4aD3ghuAFM)
 
