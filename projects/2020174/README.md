@@ -6,7 +6,7 @@
 * Ονοματεπώνυμο: Τζελέπης Φώτιος
 * Αριθμός Μητρώου: Π2020174 
 * E-mail: p20tzel@ionio.gr
-* Organization: https://github.com/A-ST4R 
+* Organization: [A-ST4R](https://github.com/A-ST4R) 
 
 # Πίνακας Περιεχομένων
 
