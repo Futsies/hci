@@ -45,7 +45,7 @@ Tην εγκατάσταση του λογισμικου συστήματος Ar
 
 Ο λόγος που αποφάσησα να αφερέσω το `journal` απο το lifesystem μου είναι γιατί, σύμφονα με [αύτο το guide](https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium), τα USB flash drives εχούν περιορισμένες εγκραφές, και για να μεγαλόσουμε περισότερο την "ζοή" τους θα σημιουργίσουμε το journal μετά τπο το installation.
 
-[Asciinema link](https://asciinema.org/a/ZhMw1gih6LliqWXE93rk2qgCO)
+[Asciinema link](https://asciinema.org/a/7bjAHHNN3tjmoEP4aD3ghuAFM)
 
 # Παραδοτέο 3 - Συμμετοχικό περιεχόμενο A1
 Για το συμμετοχικό μου υλικό που θα αναρτηθεί στο Website της εργασίας, επίλεξα να να κάνω αναφορά για την πρώτη παιχνιδομηχανή που δημιουργήθηκε, την ComputerSpace, για το το πρώτο ποντίκι με trackball που κυκλοφόρησε στην αγορά.
