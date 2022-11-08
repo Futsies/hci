@@ -31,7 +31,7 @@
 # Παραδοτέο 2 - Εγκατάσταση Arch Linux σε USB
 Tην εγκατάσταση του λογισμικου συστήματος Arch Linux αποφάσησα να την κάνω απευθείας σε USB pendrive.
 
-Αρχηκά αξίωποιηθικέ το [rufus](https://rufus.ie/en/) για την δημιουργία του `bootable .iso` και αμέσος μέτα ακολούθησε η εγκατάσταση του λογισμηκού σε `USB3.2 64G`. Ακολουθώντας τις οδυγείες από το [archwiki](https://wiki.archlinux.org/title/installation_guide) και [αυτού του χρήσιμου βίντεο](https://www.youtube.com/watch?v=PQgyW10xD8s&t=1155s), εγκατέστησα το λογισμίκο αρκέτα γρήγορα και χωρίς προβλήμματα. Κάτι ομώς που μου ξέφιγε σε αυτή την διαδικασία είναι πως δημιουργίσα `file system tablet` που έκανε point στα `drives` αντί για τα `UUIDs` του υπολογιστή μου, με αποτέλεσμα να μην μπορεί να κανεί boot σε άλλους υπολογιστές, παραμόνο την θήρα που ήταν συνδεμένο κατα την διάρκεια της εγκατάστασης.
+Αρχηκά αξίωποιηθικέ το [rufus](https://rufus.ie/en/) για την δημιουργία του `bootable .iso` και αμέσος μέτα ακολούθησε η εγκατάσταση του λογισμηκού σε `USB3.2 64G`. Ακολουθώντας τις οδυγείες από το [archwiki](https://wiki.archlinux.org/title/installation_guide), εγκατέστησα το λογισμίκο αρκέτα γρήγορα και χωρίς προβλήμματα. Κάτι ομώς που μου ξέφιγε σε αυτή την διαδικασία είναι πως δημιουργίσα `file system tablet` που έκανε point στα `drives` αντί για τα `UUIDs` του υπολογιστή μου, με αποτέλεσμα να μην μπορεί να κανεί boot σε άλλους υπολογιστές, παραμόνο την θήρα που ήταν συνδεμένο κατα την διάρκεια της εγκατάστασης.
 
 Για την επίληση αυτου του προβλήματος, χρειάστηκε να γίνει εγκατάσταση του λογισμικού απο την αρχή. Αυτη την φορά, τα `formats` των `file systems` θα το διαμορφόσουμε ως εξις:
 > Το bootable pendrive θα περίεχει δυο `partitions`, ένα για το `efi system` και ένα για το `linux filesystem`.
@@ -46,6 +46,10 @@ Tην εγκατάσταση του λογισμικου συστήματος Ar
 
 Ο λόγος που αποφάσησα να αφερέσω το `journal` απο το lifesystem μου είναι γιατί, σύμφονα με [αύτο το guide](https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium), τα USB flash drives εχούν περιορισμένες εγκραφές, και για να μεγαλόσουμε περισότερο την "ζοή" τους θα σημιουργίσουμε το journal μετά τπο το installation.
 
+### Links στα guides
+* [Normal arch installation](https://wiki.archlinux.org/title/installation_guide)
+* [Installing on bootable pendrive](https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium)
+* [Rufus](https://wiki.archlinux.org/title/USB_flash_installation_medium#Using_Rufus)
 
 [![asciicast](https://asciinema.org/a/7bjAHHNN3tjmoEP4aD3ghuAFM.svg)](https://asciinema.org/a/7bjAHHNN3tjmoEP4aD3ghuAFM)
 
