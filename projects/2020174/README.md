@@ -31,7 +31,7 @@
 # Παραδοτέο 2 - Εγκατάσταση Arch Linux σε USB
 Την εγκατάσταση του λογισμικου συστηματος Arch Linux αποφάσισα να την κάνω απευθείας σε USB pendrive.
 
-Αρχικά αξιοποιήθηκε το [rufus](https://rufus.ie/en/) για την δημιουργία του `bootable .iso` και αμέσως μέτα ακολούθησε η εγκατάσταση του λογισμικού σε `USB3.2 64G`. Ακολουθώντας τις οδηγίες από το [archwiki](https://wiki.archlinux.org/title/installation_guide), εγκατέστησα το λογισμικο αρκετά γρήγορα και χωρίς προβλήματα. Κάτι όμως που μου ξέφυγε σε αυτή την διαδικασία είναι πως δημιουργείται `file system tablet` που έκανε point στα `drives` αντί για τα `UUIDs` του υπολογιστή μου, με αποτέλεσμα να μην μπορεί να κανει boot σε άλλους υπολογιστές, παρά μόνο από την θύρα που ήταν συνδεδεμένο κατα την διάρκεια της εγκατάστασης.
+Αρχικά αξιοποιήθηκε το [rufus](https://rufus.ie/en/)(συσκευή εγγραφής USB ISO πολλαπλών χρήσεων οπού παρέχει μια γραφική διεπαφή στο χρήστη και δεν ενδιαφέρεται αν η μονάδα που επεξεργάζει είναι σωστά διαμορφωμένη ή όχι) για την δημιουργία του `bootable .iso` και αμέσως μέτα ακολούθησε η εγκατάσταση του λογισμικού σε `USB3.2 64G`. Ακολουθώντας τις οδηγίες από το [archwiki](https://wiki.archlinux.org/title/installation_guide), εγκατέστησα το λογισμικο αρκετά γρήγορα και χωρίς προβλήματα. Κάτι όμως που μου ξέφυγε σε αυτή την διαδικασία είναι πως δημιουργείται `file system tablet` που έκανε point στα `drives` αντί για τα `UUIDs` του υπολογιστή μου, με αποτέλεσμα να μην μπορεί να κανει boot σε άλλους υπολογιστές, παρά μόνο από την θύρα που ήταν συνδεδεμένο κατα την διάρκεια της εγκατάστασης.
 
 Για την επίλυση αυτου του προβλήματος, χρειάστηκε να γίνει εγκατάσταση του λογισμικού από την αρχή. Αυτη την φορά, τα `formats` των `file systems` θα το διαμορφόσουμε ως εξις:
 > Το bootable pendrive θα περιεχει δυο `partitions`, ένα για το `efi system` και ένα για το `linux filesystem`.
@@ -77,12 +77,18 @@
 * [Supported navigation bar by i3](https://faq.i3wm.org/question/707/menu-in-i3wm.1.html)
 
 ### Adding drivers για την υποστήριξη touchpad σε laptops
-Για την πραγματοποιήση αυτής τις βελτίωσης, χρησιμοποίησα τα [ xf86-input-synaptics](https://wiki.archlinux.org/title/Touchpad_Synaptics#Installation) drivers.
+Για την πραγματοποίηση αυτής της βελτίωσης, χρησιμοποίησα τα [ xf86-input-synaptics](https://wiki.archlinux.org/title/Touchpad_Synaptics#Installation) drivers.
 
-<a href="https://asciinema.org/a/Jjlq79NZSG7MhiVAZu4mGcWTD" target="_blank"><img src="https://asciinema.org/a/Jjlq79NZSG7MhiVAZu4mGcWTD.svg" /></a>
+[![asciicast](https://asciinema.org/a/Jjlq79NZSG7MhiVAZu4mGcWTD.svg)](https://asciinema.org/a/Jjlq79NZSG7MhiVAZu4mGcWTD)
+
+### Configuring Sound/Audio
+Ένα από τα πρώτα πράγματα που παρατήρησα μετά την εγκατάσταση του γραφικού περιβάλλοντος, ήταν πως το σύστημα μου δεν είχε ήχο. Οπότε έπρεπε να εγκαταστήσω ένα `sound system`. Από τα [προτεινόμενα sound systems](https://wiki.archlinux.org/title/sound_system) του Archwiki, αποφάσισα να εγκαταστήσω το [PulseAudio](https://wiki.archlinux.org/title/PulseAudio) καθώς είναι ένα ηχητικό σύστημα γενικής χρήσης και εύκολο στη χρήση του, διότι οι λειτουργίες του ερχονται `out-of-the-box`.
+
+Το `Front-End application` που χρησιμοποίησα για τα visuals του `PulseAudio`, είναι το **commandline mixer:** [pamixer](https://archlinux.org/packages/?name=pamixer)
 
 #### Asciinema videos
 * [.xinitrc](https://asciinema.org/a/HPQfDTD8H2AOQZczJ09b4XCYy)
+* [Touchpad config](https://asciinema.org/a/Jjlq79NZSG7MhiVAZu4mGcWTD)
 
 # Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A2
 
