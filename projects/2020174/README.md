@@ -70,12 +70,17 @@
 # Παραδοτέο 4 - Άσκηση γραμμής εντολών
 Για την συγκεκριμένη εβδομάδα συστήνεται να γίνει εγκατάσταση των ArchLinux σε **Hardware**, όπως σε hard drives ή USB, αλλα αφου αυτό πραγματοποιήθηκε στην προηγούμενη άσκηση γραμμής εντολών, θα κατευθυνθώ στις ασκήσεις [warm up](https://github.com/epidrome/dokey) και επίσεις κάποιες αλλαγές στο σύστημα μου για διευκολυνθεί η χρήση τους.
 
-Από [πηγή του μαθήματος](https://courses-ionio.github.io/help/cli/), συστήθηκε η χρήση του γραφικού περιβάλλοντος [i3](https://i3wm.org). Σύμφωνα με το [guide](https://wiki.archlinux.org/title/i3) για την εκτέλεση του **i3**, θα το τρέξουν με την χρήση του `xinit`, και για να πραγματοποιηθει αυτο πρεπει να προσθέτει η εντολή `exec i3` στο αρχείο .xinitrc, ([asciinema video](https://asciinema.org/a/HPQfDTD8H2AOQZczJ09b4XCYy)). Για να μπορέσει να λειτουργήσει το i3, πρέπει να γίνει και εγκατάσταση ενός τερματικού. Η επιλογή μου είναι ο [Terminator](https://wiki.archlinux.org/title/Terminator), καθώς είναι `GNU/Linux type` terminal, γεγονός που τον καθιστά όμοιο με το `default` τερματικό των Arch Linux. Για την τελειοποιηση του γραφικού περιβάλλοντος μου, αποφάσισα να εγκαταστήσω και `navigation bar`. Από τις επιλογές που με δόθηκαν, αποφάσισα να χρησιμοποιήσω το [i3-dmenu](https://man.archlinux.org/man/community/i3-wm/i3-dmenu-desktop.1.en).
+### Εγκατάσταση γραφικού περιβάλλοντος i3
+Από [πηγή του μαθήματος](https://courses-ionio.github.io/help/cli/), συστήθηκε η χρήση του γραφικού περιβάλλοντος [i3](https://i3wm.org). Σύμφωνα με το [guide](https://wiki.archlinux.org/title/i3) για την εκτέλεση του **i3**, θα το τρέξουν με την χρήση του `xinit`, και για να πραγματοποιηθει αυτο πρεπει να προσθέτει η εντολή `exec i3` στο αρχείο .xinitrc. Για να μπορέσει να λειτουργήσει το i3, πρέπει να γίνει και εγκατάσταση ενός τερματικού. Η επιλογή μου είναι ο [Terminator](https://wiki.archlinux.org/title/Terminator), καθώς είναι `GNU/Linux type` terminal, γεγονός που τον καθιστά όμοιο με το `default` τερματικό των Arch Linux. Για την τελειοποιηση του γραφικού περιβάλλοντος μου, αποφάσισα να εγκαταστήσω και `navigation bar`. Από τις επιλογές που με δόθηκαν, αποφάσισα να χρησιμοποιήσω το [i3-dmenu](https://man.archlinux.org/man/community/i3-wm/i3-dmenu-desktop.1.en).
 
 * [Supported terminals by Archwiki](https://wiki.archlinux.org/title/Category:Terminal_emulators)
 * [Supported navigation bar by i3](https://faq.i3wm.org/question/707/menu-in-i3wm.1.html)
 
+### Adding drivers για την υποστήριξη touchpad σε laptops
+Για την πραγματοποιήση αυτής τις βελτίωσης, χρησιμοποίησα τα [ xf86-input-synaptics](https://wiki.archlinux.org/title/Touchpad_Synaptics#Installation) drivers.
+
 #### Asciinema videos
+* [.xinitrc](https://asciinema.org/a/HPQfDTD8H2AOQZczJ09b4XCYy)
 
 # Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A2
 
