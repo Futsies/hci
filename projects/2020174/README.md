@@ -84,11 +84,23 @@
 ### Configuring Sound/Audio
 Ένα από τα πρώτα πράγματα που παρατήρησα μετά την εγκατάσταση του γραφικού περιβάλλοντος, ήταν πως το σύστημα μου δεν είχε ήχο. Οπότε έπρεπε να εγκαταστήσω ένα `sound system`. Από τα [προτεινόμενα sound systems](https://wiki.archlinux.org/title/sound_system) του Archwiki, αποφάσισα να εγκαταστήσω το [PulseAudio](https://wiki.archlinux.org/title/PulseAudio) καθώς είναι ένα ηχητικό σύστημα γενικής χρήσης και εύκολο στη χρήση του, διότι οι λειτουργίες του ερχονται `out-of-the-box`.
 
-Το `Front-End application` που χρησιμοποίησα για τα visuals του `PulseAudio`, είναι το **commandline mixer:** [pamixer](https://archlinux.org/packages/?name=pamixer)
+Το `Front-End application` που χρησιμοποίησα για τα visuals του `PulseAudio`, είναι το **commandline mixer:** [pulsemixer](https://archlinux.org/packages/?name=pulsemixer)
+
+[![asciicast](https://asciinema.org/a/ofuZBKwQ9CUDAlfk7v4ypI7Kf.svg)](https://asciinema.org/a/ofuZBKwQ9CUDAlfk7v4ypI7Kf)
+
+### Search the web from the terminal
+Για την περηίγηση του παγκόσμιου Ιτσού, χρησιμοποιήσα το [googler](https://github.com/jarun/googler). Για την σώστη λειτουργία της συγκεκριμέτης εφαρμογής, πρέπει να εγκαταστήσω επίσης και `Python` στο σύστημα.
+
+[![asciicast](https://asciinema.org/a/Xx4cDElrBwj0XOup2LA9TDcvk.svg)](https://asciinema.org/a/Xx4cDElrBwj0XOup2LA9TDcvk)
+
+### Check the Weather
+
 
 #### Asciinema videos
 * [.xinitrc](https://asciinema.org/a/HPQfDTD8H2AOQZczJ09b4XCYy)
 * [Touchpad config](https://asciinema.org/a/Jjlq79NZSG7MhiVAZu4mGcWTD)
+* [PulseMixer](https://asciinema.org/a/ofuZBKwQ9CUDAlfk7v4ypI7Kf)
+* [Googler](https://asciinema.org/a/Xx4cDElrBwj0XOup2LA9TDcvk)
 
 # Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A2
 
