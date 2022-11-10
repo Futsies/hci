@@ -13,7 +13,7 @@
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος παρουσίαση προόδου  | Συνοψη |
 | --- | --- | --- | --- |
 | 1 | <sup><a href="https://github.com/Futsies/hci/edit/2020174/projects/2020174/README.md#παραδοτέο-1---εισαγωγή"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα </a></sup> | [Αναφορά 1](https://github.com/courses-ionio/help/discussions/835)  | Σε εκρεμότητα |
-| 2 | [Άσκηση γραμμής εντολών(arch linux install on USB)](https://github.com/Futsies/hci/edit/2020174/projects/2020174/README.md#παραδοτέο-2---εγκατάσταση-arch-linux-σε-usb) | [Αναφορά 2](https://github.com/courses-ionio/help/discussions/1119) | Σε εκρεμότητα |
+| 2 | [Άσκηση γραμμής εντολών(arch linux install on USB)](https://github.com/Futsies/hci/edit/2020174/projects/2020174/README.md#παραδοτέο-2---εγκατάσταση-arch-linux-σε-usb) | [Αναφορά 2](https://github.com/courses-ionio/help/discussions/1119) | 100% Εκπληρωμένο |
 | 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/Futsies/hci/edit/2020174/projects/2020174/README.md#παραδοτέο-3---συμμετοχικό-περιεχόμενο-a1) | [Αναφορά 3](https://github.com/courses-ionio/help/discussions/1244) | Σε εκρεμότητα |
 | 4 | [Άσκηση γραμμής εντολών (Quality of life and warm up)](https://github.com/Futsies/hci/edit/2020174/projects/2020174/README.md#παραδοτέο-4---άσκηση-γραμμής-εντολώνquality-of-life-and-warm-up) | Αναφορά 4 | Σε εκρεμότητα |
 | 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/Futsies/hci/edit/2020174/projects/2020174/README.md#παραδοτέο-5---συμμετοχικό-περιεχόμενο-a2)| Αναφορά 5 | Σε εκρεμότητα |
@@ -78,6 +78,8 @@
 
 ### Adding drivers για την υποστήριξη touchpad σε laptops
 Για την πραγματοποιήση αυτής τις βελτίωσης, χρησιμοποίησα τα [ xf86-input-synaptics](https://wiki.archlinux.org/title/Touchpad_Synaptics#Installation) drivers.
+
+<a href="https://asciinema.org/a/Jjlq79NZSG7MhiVAZu4mGcWTD" target="_blank"><img src="https://asciinema.org/a/Jjlq79NZSG7MhiVAZu4mGcWTD.svg" /></a>
 
 #### Asciinema videos
 * [.xinitrc](https://asciinema.org/a/HPQfDTD8H2AOQZczJ09b4XCYy)
