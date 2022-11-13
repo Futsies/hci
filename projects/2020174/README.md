@@ -57,12 +57,10 @@
 Για το συμμετοχικό μου υλικό που θα αναρτηθεί στο Website της εργασίας, επίλεξα να να κάνω αναφορά για την πρώτη παιχνιδομηχανή που δημιουργήθηκε, την ComputerSpace, για το το πρώτο ποντίκι με trackball που κυκλοφόρησε στην αγορά.
 
 ### Links στα αρχεία .md
-* [ComputerSpace](https://github.com/Futsies/_gallery/blob/2020174/ComputerSpace.md)
-* [Trackball](https://github.com/Futsies/_gallery/blob/2020174/Kensington_Expert_Mouse.md)
+
 
 ### Links στις εικόνες
-* [ComputerSpace](https://github.com/Futsies/images/blob/2020174/ComputerSpace-Blue.jpg)
-* [Trackball](https://github.com/A-ST4R/images/blob/master/Kesington_Trackball.png)
+
 
 ### Link στο site
 * [Site](https://melodic-malasada-eef077.netlify.app)
@@ -126,3 +124,13 @@
 # Παραδοτέο 11 - 
 
 # Παραδοτέο 12 - 
+
+## Aπορριφθείσες εικόνες
+
+### Links στα αρχεία .md
+* [ComputerSpace](https://github.com/Futsies/_gallery/blob/2020174/ComputerSpace.md)
+* [Trackball](https://github.com/Futsies/_gallery/blob/2020174/Kensington_Expert_Mouse.md)
+
+### Links στις εικόνες
+* [ComputerSpace](https://github.com/Futsies/images/blob/2020174/ComputerSpace-Blue.jpg)
+* [Trackball](https://github.com/A-ST4R/images/blob/master/Kesington_Trackball.png)
