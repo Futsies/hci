@@ -91,9 +91,6 @@
 
 [![asciicast](https://asciinema.org/a/Xx4cDElrBwj0XOup2LA9TDcvk.svg)](https://asciinema.org/a/Xx4cDElrBwj0XOup2LA9TDcvk)
 
-### Check the Weather
-
-
 #### Asciinema videos
 * [.xinitrc](https://asciinema.org/a/HPQfDTD8H2AOQZczJ09b4XCYy)
 * [Touchpad config](https://asciinema.org/a/Jjlq79NZSG7MhiVAZu4mGcWTD)
