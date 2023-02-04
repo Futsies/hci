@@ -1,0 +1,10 @@
+#Cryptool
+*_slides
+	-learning
+	-tools
+	-visualization
+
+#Kali
+*_slides
+	-gui
+	-tools

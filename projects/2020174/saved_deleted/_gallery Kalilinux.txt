@@ -1,0 +1,19 @@
+---
+author: Futsies
+image_url: /images/KaliLinux.jpg
+year: 2013
+title: KaliLinux 
+caption: "Kali-Linux είναι μια διανομή Debian-Linux, σχεδιασμένη για penetration testing και ψηφιακής εγκληματολογίας. Τα Kali-Linux είναι το χρήσιμο εργαλείο που κάθε Cyber-Security expert θα χρειαστεί, καθώς διαθέτει μια βιβλιοθήκη +600 penetration-testing (προγραμμάτων), λιγων τον οποίων είναι port scanners(Nmap), packet analyzers(Wireshark), password crackers(John the Ripper)."
+license_url: "https://www.kali.org/images/kali-desktop-gnome.jpg"
+license_text: Kali.org
+categories:
+  - Τεχνολογία
+  - Εργαλεία και Τεχνικές
+tags: 
+  - Linux
+  - GNU
+  - Kali
+  - Cyber Security
+  - Cryptography
+  - Digital forensics
+---

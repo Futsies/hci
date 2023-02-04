@@ -1,0 +1,19 @@
+---
+author: Futsies
+image_url: /images/Cryptool2.jpg
+year: 2021
+title: Cryptool2
+caption: "Η νέα και βελτιωμένη έκδοση του Cryptool, ενός εργαλείου που διδάσκει σε αρχάριους μεθόδους κρυπτογράφησης, με την βοήθεια οπτικών ενδείξεων, γεγονός που το καθιστά εξαιρετικά αποδοτικό."
+license_url: "https://www.youtube.com/watch?v=w9s1QdHft4c"
+license_text: YouTube_Screenshot
+categories:
+  - Αρχέτυπα
+  - Τεχνολογία
+  - Εργαλεία και Τεχνικές
+tags: 
+  - Cyber Security
+  - Cryptography
+  - Cryptology
+  - Εκπαίδευση 
+  - e-learning
+---
